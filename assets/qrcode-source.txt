@@ -1,0 +1,3 @@
+QRCode.js; MIT; commit 04f46c6a0708418cb7b96fc563eacae0fbf77674
+SHA256 c541ef06327885a8415bca8df6071e14189b4855336def4f36db54bde8484f36
+https://raw.githubusercontent.com/davidshimjs/qrcodejs/04f46c6a0708418cb7b96fc563eacae0fbf77674/qrcode.min.js
